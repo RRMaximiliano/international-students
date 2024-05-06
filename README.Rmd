@@ -1,0 +1,22 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# International Students in the USA
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+```{r, echo=FALSE}
+knitr::include_graphics("figs/fig1.png")
+```
+
